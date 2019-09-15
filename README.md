@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="https://miro.medium.com/max/4914/0*Vs8O_whiQvaqSyD4.png" alt="This would have shown a cool Docker and PySpark logo :/" width="300" height="200">
+    <img src="https://miro.medium.com/max/4914/0*Vs8O_whiQvaqSyD4.png" alt="This would have shown a cool Docker and PySpark logo :/" width="700" height="420">
   </a>
 
   <h3 align="center">PySpark sitting inside a Docker Container</h3>
@@ -13,7 +13,7 @@
     <br/>
   </p>
 </p>
-
+## About the project
 A small project to learn the basics of working with PySpark. 
 This project barely scratched surface of what Spark can do, but it is a good start. For more information, follow this link:
 https://spark.apache.org/docs/latest/sql-getting-started.html.
@@ -23,10 +23,11 @@ https://spark.apache.org/docs/latest/sql-getting-started.html.
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
-  * [Virtual Env](#prerequisites)
-  * [Docker](#installation)
-* [Running the Container](#usage)
-* [Token and Password Set Up](#roadmap)
+  * [Virtual Env](#virtualenv)
+  * [Docker](#docker)
+* [Running the Container](#running-the-container)
+* [Token and Password Set Up](#token-and-password-set-up)
+* [Reusing the Docker Container](#Reusing-the-Docker-container)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
