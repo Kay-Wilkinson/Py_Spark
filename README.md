@@ -54,7 +54,7 @@ $ docker run -it -p 8888:8888 jupyter/pyspark-notebook
 ```
 You should see output similar to this:
 
-![alt text](https://raw.githubusercontent.com/Kay-Wilkinson/Py_Spark/ReadMe_Images/token_stuff.png)
+![alt text](https://github.com/Kay-Wilkinson/Py_Spark/blob/master/ReadMe_Images/token_stuff.png)
 
 ### Token and Password Set Up
 Copy and paste the token - everything after “/?token=” in the URL, into the token textbox and set a password for the Jupyter notebook server in the New Password box.
@@ -91,11 +91,11 @@ The follow the previous steps above, whereby you generate a password:
 ```
 $ jupyter notebook password
 ```
-![alt text](https://raw.githubusercontent.com/Kay-Wilkinson/Py_Spark/ReadMe_Images/jupyter_config_setup.png)
+![alt text](https://github.com/Kay-Wilkinson/Py_Spark/blob/master/ReadMe_Images/jupyter_config_setup.png)
 
 Then go to localhost:8888 again (you may need to restart your Docker container) and login. Then, you should be able to see a UI similar to the one below:
 
-![alt text](https://raw.githubusercontent.com/Kay-Wilkinson/Py_Spark/ReadMe_Images/ayy_its_a_ui.png)
+![alt text](https://github.com/Kay-Wilkinson/Py_Spark/blob/master/ReadMe_Images/ayy_its_a_ui.png)
 
 ## Reusing the Docker Container
 To access the container from a new session, you need to access it via the container id. This is a SHA hash that can be found using the below command. 
@@ -103,7 +103,7 @@ To access the container from a new session, you need to access it via the contai
 $ docker ps -a
 ```
 This will list all docker containers that you have on your machine. Look for the right name e.g. `jupyter/pyspark-notebook` as there may be many containers, depending on how extensively you use Docker. 
-![alt text](https://raw.githubusercontent.com/Kay-Wilkinson/Py_Spark/ReadMe_Images/docker_ps_containers.png)
+![alt text](https://github.com/Kay-Wilkinson/Py_Spark/blob/master/ReadMe_Images/docker_ps_containers.png)
 Copy the hash from the terminal output (it should be listed under CONTAINER_ID) and run the below command with the container_id appended to the command.
 ```
 $ docker start {REPLACE_SHA_HASH_HERE}
