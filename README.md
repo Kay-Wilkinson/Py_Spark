@@ -24,9 +24,8 @@ https://spark.apache.org/docs/latest/sql-getting-started.html.
 * [Contact](#contact)
 ### Built With
 
-* []()
-* []()
-* []()
+* [Docker](hub.docker.com)
+* [PySpark Notebook](https://hub.docker.com/r/jupyter/pyspark-notebook)
 
 ## Getting Started
 
