@@ -1,11 +1,4 @@
-# Py_Spark
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-<!--[https://www.linkedin.com/in/kay-wilkinson-3a771a127/?originalSubdomain=nl] -->
+# PySpark
 A small project to learn the basics of working with PySpark. 
 This project barely scratched surface of what Spark can do, but it is a good start. For more information, follow this link:
 https://spark.apache.org/docs/latest/sql-getting-started.html.
