@@ -1,4 +1,19 @@
 # PySpark
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="">
+    <img src="https://miro.medium.com/max/4914/0*Vs8O_whiQvaqSyD4.png" alt="This would have shown a cool Docker and PySpark logo :/" width="100" height="100">
+  </a>
+
+  <h3 align="center">PySpark sitting inside a Docker Container</h3>
+
+  <p align="center">
+    Combining the awesome full-stack framework with the most awesome virtualisation technology 
+    <br/>
+  </p>
+</p>
+
 A small project to learn the basics of working with PySpark. 
 This project barely scratched surface of what Spark can do, but it is a good start. For more information, follow this link:
 https://spark.apache.org/docs/latest/sql-getting-started.html.
