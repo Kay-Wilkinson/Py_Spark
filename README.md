@@ -1,7 +1,32 @@
 # Py_Spark
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+<!--[https://www.linkedin.com/in/kay-wilkinson-3a771a127/?originalSubdomain=nl] -->
 A small project to learn the basics of working with PySpark. 
 This project barely scratched surface of what Spark can do, but it is a good start. For more information, follow this link:
 https://spark.apache.org/docs/latest/sql-getting-started.html.
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+
+* [About the Project](#about-the-project)
+  * [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Virtual Env](#prerequisites)
+  * [Docker](#installation)
+* [Running the Container](#usage)
+* [Token and Password Set Up](#roadmap)
+* [Contributing](#contributing)
+* [License](#license)
+* [Contact](#contact)
+### Built With
+
+* []()
+* []()
+* []()
 
 ## Getting Started
 
@@ -44,7 +69,6 @@ These can be added to a docker-compose.yml file that will automate running these
 ```
 $ docker up
 ```
-(Note to self: Construct a docker-compose.yml file!) 
 
 ## Running the Container
 
@@ -109,8 +133,6 @@ Copy the hash from the terminal output (it should be listed under CONTAINER_ID) 
 $ docker start {REPLACE_SHA_HASH_HERE}
 ```
 
+## Roadmap
 
-
-
-
-
+* Construct a docker-compose.yml file
