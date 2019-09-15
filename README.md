@@ -25,7 +25,7 @@ To install the above Docker image, run:
 ```
 $ docker pull jupyter/pyspark-notebook
 ```
-![alt text](https://raw.githubusercontent.com/Kay-Wilkinson/Py_Spark/ReadMe_Images/docker_pull.png)
+![alt text](https://github.com/Kay-Wilkinson/Py_Spark/blob/master/ReadMe_Images/docker_pull.png)
 
 This may take some time to pull the full container, depending on internet connection and so on. 
 
