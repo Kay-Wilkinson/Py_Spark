@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="https://miro.medium.com/max/4914/0*Vs8O_whiQvaqSyD4.png" alt="This would have shown a cool Docker and PySpark logo :/" width="100" height="100">
+    <img src="https://miro.medium.com/max/4914/0*Vs8O_whiQvaqSyD4.png" alt="This would have shown a cool Docker and PySpark logo :/" width="300" height="200">
   </a>
 
   <h3 align="center">PySpark sitting inside a Docker Container</h3>
