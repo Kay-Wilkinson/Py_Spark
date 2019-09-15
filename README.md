@@ -91,7 +91,7 @@ The follow the previous steps above, whereby you generate a password:
 ```
 $ jupyter notebook password
 ```
-![alt text](https://github.com/Kay-Wilkinson/Py_Spark/blob/master/ReadMe_Images/jupyter_config_setup.png)
+![alt text](https://github.com/Kay-Wilkinson/Py_Spark/blob/master/ReadMe_Images/juypter_config_setup.png)
 
 Then go to localhost:8888 again (you may need to restart your Docker container) and login. Then, you should be able to see a UI similar to the one below:
 
