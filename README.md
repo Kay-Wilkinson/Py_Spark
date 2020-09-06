@@ -14,7 +14,8 @@
   </p>
 </p>
 ## About the project
-A small project to learn the basics of working with PySpark. 
+
+A small project covering the basics of working with PySpark. 
 This project barely scratched surface of what Spark can do, but it is a good start. For more information, follow this link:
 https://spark.apache.org/docs/latest/sql-getting-started.html.
 <!-- TABLE OF CONTENTS -->
